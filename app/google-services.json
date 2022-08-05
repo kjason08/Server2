@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "462576515581",
+    "project_id": "server2-db03b",
+    "storage_bucket": "server2-db03b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462576515581:android:d53ee80e850dbe30c74194",
+        "android_client_info": {
+          "package_name": "org.techdown.push.server2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462576515581-ahidj4cjpn35nsirjmfihaeph46gf8ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techdown.push.server2",
+            "certificate_hash": "fbe4a4ed952a3ea39aec3e94fe6d8320c98acff3"
+          }
+        },
+        {
+          "client_id": "462576515581-alle848sje3msdhfq39rf01n0dfh3ctp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClBlU-IvUD0HjrYoJzu2L73kpILGf-XzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462576515581-alle848sje3msdhfq39rf01n0dfh3ctp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
